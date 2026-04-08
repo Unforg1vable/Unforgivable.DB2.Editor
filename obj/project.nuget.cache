@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HlbiEo2CU/k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\123\\source\\repos\\db2 viewer\\db2 viewer\\db2 viewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\123\\.nuget\\packages\\dbcd\\2.2.0\\dbcd.2.2.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\dbcd.io\\2.2.0\\dbcd.io.2.2.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\dbdefslib\\1.0.1\\dbdefslib.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

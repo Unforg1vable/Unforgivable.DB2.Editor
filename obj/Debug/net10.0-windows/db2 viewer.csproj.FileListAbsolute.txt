@@ -1,0 +1,23 @@
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\db2 viewer.exe
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\db2 viewer.deps.json
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\db2 viewer.runtimeconfig.json
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\db2 viewer.dll
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\db2 viewer.pdb
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.AssemblyInfo.cs
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.dll
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\refint\db2 viewer.dll
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.pdb
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.genruntimeconfig.cache
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\ref\db2 viewer.dll
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\DBCD.dll
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\DBCD.IO.dll
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\DBDefsLib.dll
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\WowDb2Viewer.Form1.resources
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.csproj.GenerateResource.cache
+C:\Users\123\source\repos\db2 viewer\db2 viewer\obj\Debug\net10.0-windows\db2 viewer.csproj.Up2Date
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\WDBXLib.dll
+C:\Users\123\source\repos\db2 viewer\db2 viewer\bin\Debug\net10.0-windows\WDBXLib.pdb

@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DBCD/2.2.0": {
+        "dependencies": {
+          "DBCD.IO": "2.2.0",
+          "DBDefsLib": "1.0.1"
+        },
+        "runtime": {
+          "lib/net10.0/DBCD.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "DBCD.IO/2.2.0": {
+        "runtime": {
+          "lib/net10.0/DBCD.IO.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "DBDefsLib/1.0.1": {
+        "runtime": {
+          "lib/net8.0/DBDefsLib.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DBCD/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JrB3SzyAO/VX6QFudfRzHSCpcTdH75IOQtFGrnpaBcTdVy1hypzrxyi0kh7Mmj5dI6ZkJgyeFcDTLKJ8/wFLLQ==",
+      "path": "dbcd/2.2.0",
+      "hashPath": "dbcd.2.2.0.nupkg.sha512"
+    },
+    "DBCD.IO/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/Yrce+nt0zKawobFIs8ONIzIFdL5BdkT7enidJGKvbc/V13keEsGkcBBaWByJEubjOPDAWhmI1IbZDsBAmygpQ==",
+      "path": "dbcd.io/2.2.0",
+      "hashPath": "dbcd.io.2.2.0.nupkg.sha512"
+    },
+    "DBDefsLib/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WgDBMTNGxZyoX5hmlKDiQSdmf1vO5BIaigilsAaPAwvFgO/hjanCQzQ7QF1IY2PjB1Rwm6sB8uBiMua7Ufx+kA==",
+      "path": "dbdefslib/1.0.1",
+      "hashPath": "dbdefslib.1.0.1.nupkg.sha512"
+    }
+  }
+}
